@@ -1,0 +1,9 @@
+.all-text{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+@media (max-width: 1200px) {
+    .home .content h1{
+        font-size: 4rem;
+    }
+}
